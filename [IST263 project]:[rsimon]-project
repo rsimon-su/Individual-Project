@@ -1,0 +1,30 @@
+<!doctype html> 
+<html lang="en">
+
+    <head>
+        <title>Individual Project Idea</title>
+    </head>
+
+    <body>
+    <section>
+        <h1>Rachel Simon</h1>
+        <h2>Music Booking</h2>
+        <h3>Music Management</h3>
+    </section>
+        <p>My individual project idea is to create a site that focuses on the music industry, specifically music booking and management<p> 
+        <p>I will be utilizing content from my past music management and music booking internships</p>
+        <p>The website will consist of images and videos from past artists I have worked with and past concert events I have attended</p>
+        <p>The following pages will explain the process of management and booking</p>
+        <p>It will be broken up into 4 sections titled Events, Artists, Job Description, Additional information</p>
+        <d1>
+            <dt>music booking</dt>
+            <dd>booking artists for shows</dd>
+        </dl>
+    <footer>
+        <p>Posted by: Rachel Simon</p>
+        <p>Contact information: <a href="mailto:rsimon@syr.edu">
+        rsimon@syr.edu</a>.</p>
+    </footer>
+    </body>
+
+</html>
